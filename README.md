@@ -11,3 +11,4 @@ Through this project, I was able to strengthen my understanding of React’s cor
 
 ![ezgif-2aa57f2a67c1c5](https://github.com/user-attachments/assets/f96be664-269d-4b9b-bf74-d1839197c60d)
 # Animals_app_2
+# Animals_app_2
