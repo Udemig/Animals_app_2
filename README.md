@@ -1,8 +1,7 @@
 # Find Your Pet 🐾
 
-I designed the cover and login screens in Figma, while the interface design is entirely my own.
 
-In this project, I created a platform where users can post and view listings for lost, found, or stolen pets. The application, built with React, allows users to add, update, delete, and list pet announcements. Each listing has a detail page with additional information such as phone number, email, and the owner’s notes.
+In this project, we created a platform where users can post and view listings for lost, found, or stolen pets. The application, built with React, allows users to add, update, delete, and list pet announcements. Each listing has a detail page with additional information such as phone number, email, and the owner’s notes.
 
 I also integrated a map using Leaflet.js, which visualizes the location where the pet was last seen or found.
 
